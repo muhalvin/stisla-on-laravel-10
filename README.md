@@ -46,9 +46,11 @@ Several quick start options are available:
 
 -   Clone the repo: `git clone https://github.com/muhalvin/stisla-on-laravel-10.git`
 -   Run `cd` to the newly created `/stisla-on-laravel-10` directory
--   Run `php artisan key:generate` command
--   Run `php artisan serve` command
--   Done
+-   Run `composer install`
+-   Run cp `.env.example .env`
+-   Run `php artisan key:generate`
+-   Run `php artisan serve`
+-   Finish
 
 Read the [documentation page](https://getstisla.com/docs) for more information on the framework contents, templates and examples, and more.
 
