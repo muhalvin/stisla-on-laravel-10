@@ -20,15 +20,14 @@
 <p align="center">
   <a href="https://getstisla.com">Homepage</a>
   •
-  <a href="https://github.com/edikurniawan-dev/laravel-stisla#quick-start">Getting Started</a>
+  <a href="https://github.com/muhalvin/stisla-on-laravel-10#quick-start">Getting Started</a>
   •
-  <a href="https://demo.getstisla.com" target="_new">Demo</a>
+  <a href="https://demo.getstisla.com" target="_blank">Demo</a>
   •
-  <a href="https://getstisla.com/docs">Documentation</a>
+  <a href="https://getstisla.com/docs" target="_blank">Documentation</a>
   •
-  <a href="https://getstisla.com/blog">Blog</a>
+  <a href="https://getstisla.com/blog" target="_blank">Blog</a>
   •
-  <a href="https://github.com/edikurniawan-dev/laravel-stisla/issues">Issue</a>
 </p>
 
 <br>
