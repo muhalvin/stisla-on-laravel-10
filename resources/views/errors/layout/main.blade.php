@@ -33,7 +33,15 @@
 
 <body>
     <div id="app">
-        @yield('main-content')
+        <section class="section">
+            <div class="container mt-5">
+                @yield('main-content')
+
+                <div class="simple-footer mt-5">
+                    Copyright &copy; Stisla 2023
+                </div>
+            </div>
+        </section>
     </div>
 
     <!-- General JS Scripts -->
