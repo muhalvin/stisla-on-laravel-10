@@ -11,22 +11,22 @@
 
 <span align="center">
 
-**Laravel Stisla** is a Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI using Laravel blade templating engine.
+**Stisla On Laravel 10** is a Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI using Laravel blade templating.
 
 </span>
 
 <br>
 
 <p align="center">
-  <a href="https://getstisla.com">Homepage</a>
+  <a href="https://getstisla.com" target="_new">Homepage</a>
   •
   <a href="https://github.com/muhalvin/stisla-on-laravel-10#quick-start">Getting Started</a>
   •
-  <a href="https://demo.getstisla.com" target="_blank">Demo</a>
+  <a href="https://demo.getstisla.com" target="_new">Demo</a>
   •
-  <a href="https://getstisla.com/docs" target="_blank">Documentation</a>
+  <a href="https://getstisla.com/docs" target="_new">Documentation</a>
   •
-  <a href="https://getstisla.com/blog" target="_blank">Blog</a>
+  <a href="https://getstisla.com/blog" target="_new">Blog</a>
   •
 </p>
 
@@ -39,7 +39,6 @@
 - [Table of Contents](#table-of-contents)
 - [Quick start](#quick-start)
 - [License](#license)
-- [Supports](#supports)
 
 ## Quick start
 
