@@ -32,3 +32,7 @@ Route::get('forgot', function () {
 Route::get('dashboard', function () {
     return view('pages.dashboard');
 })->name('dashboard');
+
+Route::get('ecommerce-dashboard', function () {
+    return view('pages.ecommerce-dashboard');
+})->name('ecommerce-dashboard');
